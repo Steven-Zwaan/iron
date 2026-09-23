@@ -1,0 +1,31 @@
+{
+  "id": "default",
+  "days": [
+    {
+      "id": "mon", "label": "Monday", "weekday": 1,
+      "items": [
+        { "exerciseId": "incline_machine_press",    "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lat_pulldown",             "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "standing_calf_raise",      "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_row_machine",       "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pec_deck",                 "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_lateral_raise",      "workSets": 3, "dropSets": 2 },
+        { "exerciseId": "db_curl",                  "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_overhead_extension", "workSets": 2, "dropSets": 0 }
+      ]
+    },
+    {
+      "id": "thu", "label": "Thursday", "weekday": 4,
+      "items": [
+        { "exerciseId": "incline_machine_press",    "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lat_pulldown",             "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "standing_calf_raise",      "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_row_machine",       "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pec_deck",                 "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_lateral_raise",      "workSets": 3, "dropSets": 2 },
+        { "exerciseId": "db_curl",                  "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_overhead_extension", "workSets": 2, "dropSets": 0 }
+      ]
+    }
+  ]
+}

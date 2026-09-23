@@ -1,0 +1,14 @@
+{
+  "kg": {
+    "increments": { "machine_stack": 5, "cable_stack": 2.5, "plate_loaded": 1.25, "barbell": 2.5, "dumbbell": 2, "bodyweight": 2.5, "other": 2.5 },
+    "dumbbells": [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22.5, 25, 27.5, 30, 32.5, 35, 40, 45, 50],
+    "barWeight": 20,
+    "plates": [1.25, 2.5, 5, 10, 15, 20, 25]
+  },
+  "lb": {
+    "increments": { "machine_stack": 10, "cable_stack": 5, "plate_loaded": 2.5, "barbell": 5, "dumbbell": 5, "bodyweight": 5, "other": 5 },
+    "dumbbells": [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 90, 100],
+    "barWeight": 45,
+    "plates": [2.5, 5, 10, 25, 35, 45]
+  }
+}

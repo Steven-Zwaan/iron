@@ -1,0 +1,19 @@
+[
+  { "id": "chest",       "name": "Chest",       "category": "chest",     "weeklyTarget": 12 },
+  { "id": "lats",        "name": "Lats",        "category": "back",      "weeklyTarget": 12 },
+  { "id": "upper_back",  "name": "Upper back",  "category": "back",      "weeklyTarget": 10 },
+  { "id": "lower_back",  "name": "Lower back",  "category": "back",      "weeklyTarget": 6  },
+  { "id": "traps",       "name": "Traps",       "category": "shoulders", "weeklyTarget": 8  },
+  { "id": "delts_front", "name": "Front delts", "category": "shoulders", "weeklyTarget": 8  },
+  { "id": "delts_side",  "name": "Side delts",  "category": "shoulders", "weeklyTarget": 10 },
+  { "id": "delts_rear",  "name": "Rear delts",  "category": "shoulders", "weeklyTarget": 8  },
+  { "id": "biceps",      "name": "Biceps",      "category": "arms",      "weeklyTarget": 10 },
+  { "id": "triceps",     "name": "Triceps",     "category": "arms",      "weeklyTarget": 10 },
+  { "id": "forearms",    "name": "Forearms",    "category": "arms",      "weeklyTarget": 6  },
+  { "id": "quads",       "name": "Quads",       "category": "legs",      "weeklyTarget": 12 },
+  { "id": "hamstrings",  "name": "Hamstrings",  "category": "legs",      "weeklyTarget": 10 },
+  { "id": "glutes",      "name": "Glutes",      "category": "legs",      "weeklyTarget": 10 },
+  { "id": "calves",      "name": "Calves",      "category": "legs",      "weeklyTarget": 10 },
+  { "id": "abs",         "name": "Abs",         "category": "core",      "weeklyTarget": 8  },
+  { "id": "obliques",    "name": "Obliques",    "category": "core",      "weeklyTarget": 6  }
+]

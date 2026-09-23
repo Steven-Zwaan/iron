@@ -1,0 +1,106 @@
+[
+  {
+    "id": "upper_lower",
+    "name": "Upper / Lower",
+    "description": "Four days. Two upper, two lower.",
+    "days": [
+      { "label": "Upper A", "weekday": 1, "items": [
+        { "exerciseId": "bench_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lat_pulldown", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_shoulder_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_cable_row", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_lateral_raise", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "tricep_pushdown", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Lower A", "weekday": 2, "items": [
+        { "exerciseId": "back_squat", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "rdl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "leg_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lying_leg_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "standing_calf_raise", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_crunch", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Upper B", "weekday": 4, "items": [
+        { "exerciseId": "incline_db_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "chest_supported_row", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pec_deck", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pullup", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "face_pull", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hammer_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_overhead_extension", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Lower B", "weekday": 5, "items": [
+        { "exerciseId": "hack_squat", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hip_thrust", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "leg_extension", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_leg_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_calf_raise", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hanging_leg_raise", "workSets": 2, "dropSets": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ppl",
+    "name": "Push / Pull / Legs",
+    "description": "Three days. Repeat twice a week if you can.",
+    "days": [
+      { "label": "Push", "weekday": 1, "items": [
+        { "exerciseId": "incline_machine_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "machine_shoulder_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pec_deck", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_lateral_raise", "workSets": 3, "dropSets": 1 },
+        { "exerciseId": "tricep_pushdown", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_overhead_extension", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Pull", "weekday": 3, "items": [
+        { "exerciseId": "lat_pulldown", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_row_machine", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "reverse_pec_deck", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hammer_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_shrug", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Legs", "weekday": 5, "items": [
+        { "exerciseId": "leg_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "rdl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "leg_extension", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lying_leg_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hip_abduction", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "standing_calf_raise", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "machine_crunch", "workSets": 2, "dropSets": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "full_body",
+    "name": "Full body ×3",
+    "description": "Three full-body days. Everything, every time.",
+    "days": [
+      { "label": "Full body A", "weekday": 1, "items": [
+        { "exerciseId": "back_squat", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "bench_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lat_pulldown", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_lateral_raise", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "db_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "standing_calf_raise", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Full body B", "weekday": 3, "items": [
+        { "exerciseId": "leg_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "incline_db_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "seated_cable_row", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "rdl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "tricep_pushdown", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "cable_crunch", "workSets": 2, "dropSets": 0 }
+      ]},
+      { "label": "Full body C", "weekday": 5, "items": [
+        { "exerciseId": "hack_squat", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "machine_shoulder_press", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "pullup", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "lying_leg_curl", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "face_pull", "workSets": 2, "dropSets": 0 },
+        { "exerciseId": "hanging_leg_raise", "workSets": 2, "dropSets": 0 }
+      ]}
+    ]
+  }
+]
